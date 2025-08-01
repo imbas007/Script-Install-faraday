@@ -1,7 +1,5 @@
 # Script-Install-faraday
 
-# Faraday Quick Reference
-
 ## 🚀 Quick Setup
 ```bash
 # Run the automated setup script
